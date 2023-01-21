@@ -1,4 +1,4 @@
-# PRAW-API
+# PRAW-API (Created November 2021)
 
 Barebones discord api wrapper, works for most part apart except its missing functions such as sendings msgs etc can easily be implemented or used as a base,
 other wise more optimised than discord.net and anarchy lol
